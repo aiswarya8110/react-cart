@@ -1,0 +1,24 @@
+{
+  "name": "react-cart",
+  "version": "1.0.0",
+  "description": "cart using react",
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "npx parcel index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "react-dom"
+  ],
+  "author": "aiswarya sarangi",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  }
+}
